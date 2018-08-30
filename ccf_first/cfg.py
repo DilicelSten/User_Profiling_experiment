@@ -1,0 +1,1 @@
+data_path = "/media/iiip/文档/user_profiling/sougou/processed data/"
